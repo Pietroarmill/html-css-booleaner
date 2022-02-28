@@ -46,7 +46,6 @@ header{
 /* titoli immagini */
 #img-title{
     font-size: 12px;
-    margin-bottom: 15px;
 }
 
 .color-p{
@@ -54,11 +53,16 @@ header{
 }
 
 #ulist{
-    margin-top: 15px;
     margin-left: 20px;
     margin-bottom: 15px;
 }
- 
+
+/* PARAGRAFI */
+.paragraph{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
 /* TABELLA */
 thead{
     text-align: left;
