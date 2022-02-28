@@ -56,4 +56,24 @@ header{
 #ulist{
     margin-top: 15px;
     margin-left: 20px;
+    margin-bottom: 15px;
 }
+ 
+/* TABELLA */
+thead{
+    text-align: left;
+    color: white;
+    background-color: #4fa3ff;
+}
+.first-column{
+    width: 25%;
+}
+.second-column{
+    width: 25%;
+}.third-column{
+    width: 50%;
+}
+.color-row{
+    background-color: rgba(89, 211, 248, 0.5);
+}
+/* FINE TABELLA */
