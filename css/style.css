@@ -3,35 +3,57 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
+    
 }
 /* HEADER */
 header{
     background-color: #4fa3ff;
     background-image: url(file:///C:/Boolean/html-css-booleaner/img/pattern.png);
     background-size: contain;
-    
 }
 /* logo in header */
 #logo{
-    padding-left: 10px;
     padding-top: 25px;
     width: 200px;
-}
+    margin-left:10px;
 
+}
+/* MAIN */
+#contenitore{
+    margin-left:10px;
+}
+/* titolo e data*/
 .container{
-    margin-left: 10px;
     font-family: 'Times New Roman', Times, serif;
-    
-
+    margin-bottom: 15px;
 }
-
 .container h1{
     margin-top: 15px;
     font-size: 40px;
 }
-
 .container span{
     color: gray;
     font-size: 20px;
+}
+.container span a{
+    text-decoration: none;
+    color: rgb(0, 153, 255);
+}
+#date{
+    font-size: 15px;
+}
+
+/* titoli immagini */
+#img-title{
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+
+.color-p{
+    background-color: yellow;
+}
+
+#ulist{
+    margin-top: 15px;
+    margin-left: 20px;
 }
