@@ -81,3 +81,30 @@ thead{
     background-color: rgba(89, 211, 248, 0.5);
 }
 /* FINE TABELLA */
+
+/* FOOTER */
+footer{
+    margin-left: 10px;
+}
+footer h3{
+    color: gray;
+}
+/* img in FOOTER */
+.img-box{
+    width: 250px;
+    height: 200px;
+    background-size: cover;
+    margin-top: 10px;
+}
+.lorem{
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 10px;
+    color: white;
+}
+#img2{
+    background-image: url(file:///C:/Boolean/html-css-booleaner/img/graph.jpg);
+}
+#img1{
+    background-image: url(file:///C:/Boolean/html-css-booleaner/img/monitor.jpg);
+}
